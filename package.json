@@ -1,0 +1,23 @@
+{
+  "name": "market_maker",
+  "version": "1.0.0",
+  "description": "Handles Market Making",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuarossi/market_maker.git"
+  },
+  "author": "Josh Rossi <josh@bitfinex.com> (https://www.bitfinex.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuarossi/market_maker/issues"
+  },
+  "homepage": "https://github.com/joshuarossi/market_maker#readme",
+  "dependencies": {
+    "autobahn": "^0.11.1",
+    "winston": "^2.3.0"
+  }
+}
